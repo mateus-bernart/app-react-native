@@ -7,6 +7,8 @@ export default function MenuScreen() {
   const theme = colorScheme === "dark" ? Colors.dark : Colors.light;
 
   const styles = createStyles(theme, colorScheme);
+
+  
 }
 
 function createStyles(theme, colorScheme) {
